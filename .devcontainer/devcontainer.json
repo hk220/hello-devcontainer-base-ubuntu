@@ -1,0 +1,8 @@
+{
+    "name": "hello-devcontainer-base-ubuntu",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {},
+        "./HelloFeature": {}
+    }
+}
